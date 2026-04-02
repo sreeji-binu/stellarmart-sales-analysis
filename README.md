@@ -1,4 +1,4 @@
-
+![Project Thumbnail](assets/thumbnail.png)
 # 🛒 StellarMart Sales Analysis
 
 ## 📊 Project Overview
