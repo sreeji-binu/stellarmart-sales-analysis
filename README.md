@@ -1,4 +1,4 @@
-Markdown
+
 # 🛒 StellarMart Sales Analysis
 
 ## 📊 Project Overview
